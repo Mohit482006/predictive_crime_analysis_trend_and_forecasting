@@ -33,6 +33,11 @@ Bar graph: Crimes by State/UT (2022)
 Scatter plot: Population vs Crimes
 Model evaluation: MSE, RMSE, R² Score
 
+
+✅ Advantages:
+It helps in predicting future crime trends in advance, so police and government can take preventive action and plan resources before crime happens.
+
+
 📌 Future Scope:
 Add more years of data
 Use time-series forecasting models
