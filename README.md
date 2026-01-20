@@ -6,11 +6,11 @@ This project analyzes crime data of Indian States/UTs using NCRB dataset and app
 
 📂 Dataset
 Source: NCRB (National Crime Records Bureau) / data.gov.in
-File used: NCRB_Table_1A.1.csv and NCRB_Table_3A.3
+File used: NCRB_Table_1A.1.csv and NCRB_Table_3A.3.csv
 
 
 ⚙️ Technologies Used
-Python
+Python,
 Pandas, NumPy
 Matplotlib, Seaborn
 Scikit-learn
